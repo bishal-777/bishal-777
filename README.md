@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Computer Engineering Student<br>🔭 I’m currently working on<br>🤝 I’m looking to collaborate on Data Science, Machine Learning and Deep Learning<br>🌱 I’m currently learning Deep Learning.
+💻 Computer Engineering Student<br>🤝 I’m looking to collaborate on Data Science, Machine Learning and Deep Learning<br>🌱 I’m currently learning Deep Learning.
 
 
 # 💻 Tech Stack:
